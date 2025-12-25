@@ -1,0 +1,21 @@
+
+h1{
+    color: blue;
+}
+
+#id1{color:red;}
+#id2{color: green;}
+#id3{color: red;}
+table,th,td{
+    border: 1px solid;
+    border-collapse: collapse;
+    
+    text-align: center;
+}
+#id4{background-color:rgba(119, 0, 255, 0.717);}
+#id5{background-color: violet;}
+#id6{background-color:rgb(0, 100, 58);}
+#id7{background-color:rgb(0, 88, 100) ;}
+table{
+    width: 100%;
+}
